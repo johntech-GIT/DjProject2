@@ -26,5 +26,3 @@ urlpatterns = [
     path('accounts/', include('allauth.urls')),
 ]
 
-# basic_user   jghfjndydtnydtgff   basic_user@example.com
-# premium_user  gdhnytmmfimjjlkddd  premium_user@example.com
